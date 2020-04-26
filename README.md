@@ -9,6 +9,12 @@ pip install -r requirements.txt
 ```
 
 ## Running
+- **Datasets**:
+
+Two datasets (SPNLG and Wiki) can be downloaded from: https://drive.google.com/drive/folders/1bX3VWzQosm0p2DlEnp7T5jQLI79Sl2nN?usp=sharing
+
+Details info: [HERE](./data/README.md)
+
 - **Training**:
 
 ```
